@@ -8,7 +8,7 @@
 
 - 👀 I'm currently focusing on **JavaScript**.
 
-- 📝 I'm currently working on [`ShozukaAPIs`](https://api.shizukaa.xyz/) 
+- 📝 I'm currently working on [`ShizukaAPIs`](https://api.shizukaa.xyz/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
