@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"<a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
 
 <p align="center">
