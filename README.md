@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
-
+<p align=left> <img src=https://visitor-badge.glitch.me/badge?page_id=ItsmeikyXSec4O4 alt=ItsmeikyXSec4O4/> </p>
 <p align="center">
   <a href="https://github.com/ItsmeikyXSec4O4"><img src="https://github-readme-stats.vercel.app/api?username=ItsmeikyXSec4O4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
