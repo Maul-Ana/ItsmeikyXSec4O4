@@ -1,7 +1,7 @@
 <h1 align="center">そのメイキー<img src="https://user-images.githubusercontent.com/20210414/080313" width="40px" alt="hi"><br>Itsmeiky Was Hare!</h1>
 
 <p align="center">
-<img src="https://1.bp.blogspot.com/-obDmCA8z6vg/X03v0pohXnI/AAAAAAAAEMA/ocgQ9CHyix0lQ_PnWXx5gWVvO5t4T1EHwCLcBGAsYHQ/s1600/Shoto-todoroki.jpg" width="100%" alt="API Giphy logo"/>
+<img src="https://githubusercontent.com/20210414" width="100%" alt="API Giphy logo"/>
 </p>
 
 - 🌱 I’m currently learning **nothing**.
